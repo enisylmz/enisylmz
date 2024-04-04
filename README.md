@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Lider engineering and Softwer inc.**
 
-- 🌱 I’m currently learning **A51 U8 Autopatch firmware**
-
 - 💬 Ask me about **React, PHP, Python**
 
 - 📫 How to reach me **enisylmz07@gmail.com**
